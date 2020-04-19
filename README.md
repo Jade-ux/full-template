@@ -2,6 +2,17 @@
 
 Welcome Jade-ux,
 
+---
+
+I don't want to delete the Code Instutute's Read Me Documentation below so I am adding a new section.
+
+## This is my information
+
+**Inline headings** have two stars before and after.
+
+----
+
+
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
 
 ## Gitpod Reminders
